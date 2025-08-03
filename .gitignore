@@ -1,4 +1,4 @@
 .env
-.venv
 featurelab.ipynb
+venv/
 .ipynb_checkpoints/
