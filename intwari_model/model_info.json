@@ -1,0 +1,16 @@
+{
+  "model_type": "temporal_conv3d",
+  "random_seed": 45,
+  "dynamic_shape": [
+    12,
+    15,
+    15,
+    3
+  ],
+  "static_shape": [
+    15,
+    15,
+    13
+  ],
+  "framework_version": "2.19.0"
+}

@@ -1,0 +1,4 @@
+.env
+.venv
+featurelab.ipynb
+.ipynb_checkpoints/
